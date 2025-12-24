@@ -1,11 +1,13 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import logo from "../../assets/logo.svg";
+
 
 function Header() {
   return (
     <div className="w-full flex justify-between items-center bg-white sm:px-8 px-4 py-4 border-b border-b-[#e6ebf4]">
   <Link to="/">
-    <img src="/logo.svg" alt="logo" className="w-28 object-contain" />
+    <img src={logo} alt="logo" className="w-10 object-contain" />
   </Link>
   <Link
     to="/create-post"
