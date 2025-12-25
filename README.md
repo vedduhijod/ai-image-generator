@@ -1,7 +1,9 @@
 # 🚀 AI Image Generator — MERN Stack
 
 🔗 **Live Demo:** https://ai-image-generator-puce-sigma.vercel.app/
+
 🔗 **Backend API:** https://ai-image-generator-q76g.onrender.com
+
 📦 **GitHub Repository:** https://github.com/vedduhijod/ai-image-generator  
 
 ---
